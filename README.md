@@ -1,2 +1,3 @@
 # HelloWorld
-This is a first trial repository to be created in github
+This is a my first trial repository being created in gitHub
+This belongs to Harshitha0102 
